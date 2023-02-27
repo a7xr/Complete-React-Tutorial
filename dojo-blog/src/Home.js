@@ -19,7 +19,7 @@ const Home = () => {
   };
 
   useEffect(() => {
-    console.log("Ran useEffect");
+    console.log("Ran useEffect"); //
   });
 
   return (
